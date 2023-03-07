@@ -1,0 +1,8 @@
+C:\Users\alex\Documents\GitHub\OOP_prakt2\OOP_ptakt2\Сортування даних за допомогою лямбда-виразів\bin\Debug\Сортування даних за допомогою лямбда-виразів.exe.config
+C:\Users\alex\Documents\GitHub\OOP_prakt2\OOP_ptakt2\Сортування даних за допомогою лямбда-виразів\bin\Debug\Сортування даних за допомогою лямбда-виразів.exe
+C:\Users\alex\Documents\GitHub\OOP_prakt2\OOP_ptakt2\Сортування даних за допомогою лямбда-виразів\bin\Debug\Сортування даних за допомогою лямбда-виразів.pdb
+C:\Users\alex\Documents\GitHub\OOP_prakt2\OOP_ptakt2\Сортування даних за допомогою лямбда-виразів\obj\Debug\Сортування даних за допомогою лямбда-виразів.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt2\OOP_ptakt2\Сортування даних за допомогою лямбда-виразів\obj\Debug\Сортування даних за допомогою лямбда-виразів.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt2\OOP_ptakt2\Сортування даних за допомогою лямбда-виразів\obj\Debug\Сортування даних за допомогою лямбда-виразів.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt2\OOP_ptakt2\Сортування даних за допомогою лямбда-виразів\obj\Debug\Сортування даних за допомогою лямбда-виразів.exe
+C:\Users\alex\Documents\GitHub\OOP_prakt2\OOP_ptakt2\Сортування даних за допомогою лямбда-виразів\obj\Debug\Сортування даних за допомогою лямбда-виразів.pdb

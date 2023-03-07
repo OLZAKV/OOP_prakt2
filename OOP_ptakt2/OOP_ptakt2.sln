@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Фільтрування даних за допомогою лямбда-виразів", "Фільтрування даних за допомогою лямбда-виразів\Фільтрування даних за допомогою лямбда-виразів.csproj", "{2F34A904-F104-44FF-92C2-9BDA9750A18F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортування даних за допомогою лямбда-виразів", "Сортування даних за допомогою лямбда-виразів\Сортування даних за допомогою лямбда-виразів.csproj", "{A5684399-1E63-4994-87EF-2F43CA3B1816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Групуйте дані за допомогою лямбда-виразів", "Групуйте дані за допомогою лямбда-виразів\Групуйте дані за допомогою лямбда-виразів.csproj", "{C827042C-F38D-4C5B-B9E3-E0982B305A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Створення делегатів за допомогою лямбда-виразів", "Створення делегатів за допомогою лямбда-виразів\Створення делегатів за допомогою лямбда-виразів.csproj", "{ACFE5147-8C36-4CDA-8D51-AD20F658D5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F34A904-F104-44FF-92C2-9BDA9750A18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F34A904-F104-44FF-92C2-9BDA9750A18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F34A904-F104-44FF-92C2-9BDA9750A18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F34A904-F104-44FF-92C2-9BDA9750A18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5684399-1E63-4994-87EF-2F43CA3B1816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5684399-1E63-4994-87EF-2F43CA3B1816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5684399-1E63-4994-87EF-2F43CA3B1816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5684399-1E63-4994-87EF-2F43CA3B1816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C827042C-F38D-4C5B-B9E3-E0982B305A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C827042C-F38D-4C5B-B9E3-E0982B305A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C827042C-F38D-4C5B-B9E3-E0982B305A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C827042C-F38D-4C5B-B9E3-E0982B305A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACFE5147-8C36-4CDA-8D51-AD20F658D5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFE5147-8C36-4CDA-8D51-AD20F658D5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFE5147-8C36-4CDA-8D51-AD20F658D5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFE5147-8C36-4CDA-8D51-AD20F658D5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E32547-7FE8-4B51-B5D2-6F11D628FA6C}
+	EndGlobalSection
+EndGlobal
